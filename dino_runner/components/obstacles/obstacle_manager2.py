@@ -2,6 +2,7 @@ import pygame
 
 from dino_runner.components.obstacles.cactus import Cactus
 from dino_runner.utils.constants import LARGE_CACTUS
+from dino_runner.assets.sons import (death_sound)
 
 
 class ObstacleManager2:
